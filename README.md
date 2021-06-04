@@ -1,7 +1,7 @@
 # Kurdish-Machine-Translation-Project (KMTP)
 Kurdish Machine translation project
 
-Kurdish machine trasnalation project was initiaited in 2021 by Kurdish reserachers to foster Kurdish machine translation. 
+Kurdish machine trasnalation project was initiaited in 2021 by Kurdish reserachers to foster Kurdish machine translation reserach. 
 
 As the first project, we collected and processed the first large scale kurdish parallel English-Kurdsih corpus named AWTA. 
 
