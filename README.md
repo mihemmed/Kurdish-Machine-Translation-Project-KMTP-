@@ -1,4 +1,4 @@
-# Kurdish-Machine-Translation-Project(KMTP)
+# Kurdish-Machine-Translation-Project (KMTP)
 Kurdish Machine translation project
 
 Kurdish machine trasnalation project was initiaited in 2021 by Kurdish reserachers to foster Kurdish machine translation. 
